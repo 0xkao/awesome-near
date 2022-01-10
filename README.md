@@ -1,7 +1,7 @@
 # Awesome Near
 Collection of Near Projects 
 
-| Thanks to [near-x/awesome-nft](https://github.com/near-x/awesome-nft) for the initial repo
+> Thanks to [near-x/awesome-nft](https://github.com/near-x/awesome-nft) for the initial repo
 
 ### Bridges 
 - [Rainbow Bridge](https://rainbowbridge.app/)
